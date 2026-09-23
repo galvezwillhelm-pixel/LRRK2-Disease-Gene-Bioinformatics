@@ -44,3 +44,22 @@ An exon is a sequence that remains in the mature RNA after splicing, while an in
 - **Relationship to gene structure:** Strong conservation was more noticeable in several exon-associated regions, although conserved signals were also present in some non-coding regions.
 
 Strong conservation across many vertebrate species suggests that a genomic region has been maintained during evolution. This can indicate biological importance because mutations in highly conserved regions may disrupt sequences that are important for normal gene or protein function.
+
+## Selected ClinVar Variant
+
+- **Gene:** LRRK2
+- **Variant:** NM_198578.4:c.6055G>A (p.Gly2019Ser)
+- **Protein change:** G2019S
+- **Variant type:** Single nucleotide variant, 1 bp
+- **Variation ID:** 1940
+- **ClinVar accession:** VCV000001940.93
+- **rsID:** rs34637584
+- **Chromosome:** 12
+- **GRCh38 genomic position:** chr12:40,340,400
+- **Genomic HGVS:** NC_000012.12:g.40340400G>A
+- **Associated condition:** LRRK2-related Parkinson disease / autosomal dominant Parkinson disease 8
+- **Clinical significance:** Pathogenic/Likely pathogenic; risk factor
+- **Review status:** Criteria provided, multiple submitters, no conflicts
+- **Molecular consequence:** Missense variant
+- **Location in LRRK2:** Exon 41 (coding exon 41)
+- **ClinVar record:** VCV000001940.93
