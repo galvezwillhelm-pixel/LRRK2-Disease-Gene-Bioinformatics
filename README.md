@@ -21,3 +21,14 @@ The assigned gene for this activity is **LRRK2 (leucine rich repeat kinase 2)**.
 
 LRRK2 is located on chromosome 12 in the GRCh38/hg38 human genome assembly. The UCSC Genome Browser showed the gene spanning approximately 144.3 kb. The arrows in the gene model point toward decreasing genomic coordinates, indicating that LRRK2 is located on the negative strand.
  
+## Exons, Introns, and Transcripts
+
+**Selected transcript:** NM_198578.4
+
+- **Multiple transcripts/isoforms visible:** Yes
+- **Exons:** Exons are the boxed regions in the gene model.
+- **Introns:** Introns are the connecting lines between exon boxes.
+- **Relative size:** The introns generally appear much longer than the exons in LRRK2.
+- **Transcript structure:** Several transcript isoforms are visible, indicating alternative transcript usage.
+
+An exon is a sequence that remains in the mature RNA after splicing, while an intron is removed during RNA processing. In the UCSC Genome Browser, exons appear as boxes and introns appear as connecting lines between them.
