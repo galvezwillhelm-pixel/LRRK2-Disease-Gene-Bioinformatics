@@ -33,3 +33,14 @@ LRRK2 is located on chromosome 12 in the GRCh38/hg38 human genome assembly. The 
 - **Number of exons in selected transcript NM_198578.4:** 51
 
 An exon is a sequence that remains in the mature RNA after splicing, while an intron is removed during RNA processing. In the UCSC Genome Browser, exons appear as boxes and introns appear as connecting lines between them.
+
+
+## UCSC Annotation Tracks
+
+- **Gene annotation track used:** NCBI RefSeq Curated
+- **ClinVar-related variants visible:** Yes. Numerous ClinVar short nucleotide variant marks were visible within and around the LRRK2 genomic region.
+- **Conservation track used:** 100 Vertebrates Conservation
+- **Conservation pattern:** Some regions showed stronger conservation signals than others.
+- **Relationship to gene structure:** Strong conservation was more noticeable in several exon-associated regions, although conserved signals were also present in some non-coding regions.
+
+Strong conservation across many vertebrate species suggests that a genomic region has been maintained during evolution. This can indicate biological importance because mutations in highly conserved regions may disrupt sequences that are important for normal gene or protein function.
