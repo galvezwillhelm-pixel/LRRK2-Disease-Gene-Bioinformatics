@@ -57,12 +57,12 @@ Strong conservation across many vertebrate species suggests that a genomic regio
 - **Chromosome:** 12
 - **GRCh38 genomic position:** chr12:40,340,400
 - **Genomic HGVS:** NC_000012.12:g.40340400G>A
-- **Associated condition:** LRRK2-related Parkinson disease / autosomal dominant Parkinson disease 8
+- **Associated condition:** Autosomal dominant Parkinson disease 8
 - **Clinical significance:** Pathogenic/Likely pathogenic; risk factor
 - **Review status:** Criteria provided, multiple submitters, no conflicts
 - **Molecular consequence:** Missense variant
 - **Location in LRRK2:** Exon 41 (coding exon 41)
-- **ClinVar record:** VCV000001940.93
+- - **ClinVar record:** [VCV000001940.93](https://www.ncbi.nlm.nih.gov/clinvar/variation/1940/)
 
 ## Locating the Variant in UCSC
 
@@ -73,6 +73,50 @@ Strong conservation across many vertebrate species suggests that a genomic regio
 - **Coding or non-coding:** Coding region
 - **Molecular consequence:** Missense variant
 
-The G2019S variant is located within a protein-coding exon of LRRK2. The nucleotide substitution changes the coding sequence from c.6055G>A, producing the amino-acid substitution p.Gly2019Ser. ClinVar identifies this as a missense variant, meaning the nucleotide change alters one amino acid without shifting the reading frame.  [oai_citation:0‡NCBI](https://www.ncbi.nlm.nih.gov/clinvar/RCV000622347.4/?utm_source=chatgpt.com)
+The G2019S variant is located within a protein-coding exon of LRRK2. The nucleotide substitution changes the coding sequence from c.6055G>A, producing the amino-acid substitution p.Gly2019Ser. ClinVar identifies this as a missense variant, meaning the nucleotide change alters one amino acid without shifting the reading frame.  
+(https://www.ncbi.nlm.nih.gov/clinvar/variation/1940/)
 
 Based on its location in a coding exon and its effect on amino acid 2019, the variant can alter the molecular properties of the LRRK2 protein. However, genomic location alone is not enough to prove causation. Additional evidence such as functional assays, segregation studies, population-frequency data, biochemical studies, and clinical observations is needed to establish how the variant contributes to disease.
+
+## Reflection
+
+### 1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+
+The UCSC Genome Browser showed the physical organization of LRRK2 within chromosome 12. It made the exon-intron structure, transcript isoforms, genomic span, strand orientation, and nearby annotated variants visible, which are details that are not obvious from only reading about the biological function of the gene.
+
+### 2. Why is knowing the exact genomic location of a disease-associated variant useful?
+
+Knowing the exact genomic location helps determine whether a variant lies within an exon, intron, UTR, splice region, or another regulatory region. This information helps predict how the variant may affect transcription, RNA processing, or the amino-acid sequence of the encoded protein.
+
+### 3. What is one limitation of predicting a variant's effect only from its genomic location?
+
+Genomic location alone cannot prove the actual biological effect of a variant. A variant may appear important based on its position, but functional experiments, biochemical evidence, population data, and clinical observations are needed to determine whether it truly alters gene or protein function and contributes to disease.
+
+### 4. What was the most interesting feature you observed about your assigned gene?
+
+The most interesting feature was the complex transcript structure of LRRK2, with multiple transcript isoforms and many exons distributed across a large genomic region. It was also interesting to see the G2019S disease-associated variant positioned directly within a coding exon and aligned with ClinVar and conservation annotations.
+
+## Screenshots
+
+### Screenshot 1 - Gene Location
+![LRRK2 gene location](images/01_gene_location.png)
+
+### Screenshot 2 - Gene Structure
+![LRRK2 exon-intron structure](images/02_gene_structure.png)
+
+### Screenshot 3 - UCSC Annotation Tracks
+![LRRK2 ClinVar and conservation tracks](images/03_tracks.png)
+
+### Screenshot 4 - ClinVar Variant
+![LRRK2 G2019S ClinVar record](images/04_clinvar_variant.png)
+
+### Screenshot 5 - Variant in UCSC
+![LRRK2 G2019S variant in UCSC](images/05_variant_in_ucsc.png)
+
+## References and Links
+
+- UCSC Genome Browser: https://genome.ucsc.edu/
+- UCSC Genome Browser 101 Tutorial: https://genome.ucsc.edu/docs/tutorials/gb101.html
+- NCBI LRRK2 Gene: https://www.ncbi.nlm.nih.gov/gene/120892
+- NCBI RefSeq NM_198578.4: https://www.ncbi.nlm.nih.gov/nuccore/NM_198578.4
+- NCBI ClinVar G2019S Variant: https://www.ncbi.nlm.nih.gov/clinvar/variation/1940/
