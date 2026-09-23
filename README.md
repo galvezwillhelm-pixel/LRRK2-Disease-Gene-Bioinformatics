@@ -63,3 +63,16 @@ Strong conservation across many vertebrate species suggests that a genomic regio
 - **Molecular consequence:** Missense variant
 - **Location in LRRK2:** Exon 41 (coding exon 41)
 - **ClinVar record:** VCV000001940.93
+
+## Locating the Variant in UCSC
+
+- **Selected variant:** NM_198578.4:c.6055G>A (p.Gly2019Ser)
+- **GRCh38 position:** chr12:40,340,400
+- **Location relative to LRRK2:** Within the LRRK2 gene
+- **Gene region:** Exon 41 (coding exon 41)
+- **Coding or non-coding:** Coding region
+- **Molecular consequence:** Missense variant
+
+The G2019S variant is located within a protein-coding exon of LRRK2. The nucleotide substitution changes the coding sequence from c.6055G>A, producing the amino-acid substitution p.Gly2019Ser. ClinVar identifies this as a missense variant, meaning the nucleotide change alters one amino acid without shifting the reading frame.  [oai_citation:0‡NCBI](https://www.ncbi.nlm.nih.gov/clinvar/RCV000622347.4/?utm_source=chatgpt.com)
+
+Based on its location in a coding exon and its effect on amino acid 2019, the variant can alter the molecular properties of the LRRK2 protein. However, genomic location alone is not enough to prove causation. Additional evidence such as functional assays, segregation studies, population-frequency data, biochemical studies, and clinical observations is needed to establish how the variant contributes to disease.
