@@ -20,3 +20,4 @@ The assigned gene for this activity is **LRRK2 (leucine rich repeat kinase 2)**.
 - **Approximate gene size:** 144,289 bp (~144.3 kb)
 
 LRRK2 is located on chromosome 12 in the GRCh38/hg38 human genome assembly. The UCSC Genome Browser showed the gene spanning approximately 144.3 kb. The arrows in the gene model point toward decreasing genomic coordinates, indicating that LRRK2 is located on the negative strand.
+ 
