@@ -30,5 +30,6 @@ LRRK2 is located on chromosome 12 in the GRCh38/hg38 human genome assembly. The 
 - **Introns:** Introns are the connecting lines between exon boxes.
 - **Relative size:** The introns generally appear much longer than the exons in LRRK2.
 - **Transcript structure:** Several transcript isoforms are visible, indicating alternative transcript usage.
+- **Number of exons in selected transcript NM_198578.4:** 51
 
 An exon is a sequence that remains in the mature RNA after splicing, while an intron is removed during RNA processing. In the UCSC Genome Browser, exons appear as boxes and introns appear as connecting lines between them.
