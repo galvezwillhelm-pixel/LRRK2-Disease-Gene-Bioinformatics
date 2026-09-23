@@ -99,19 +99,19 @@ The most interesting feature was the complex transcript structure of LRRK2, with
 ## Screenshots
 
 ### Screenshot 1 - Gene Location
-![LRRK2 gene location](images/01_gene_location.png)
+![LRRK2 gene location](images/01_gene_location.jpeg)
 
 ### Screenshot 2 - Gene Structure
-![LRRK2 exon-intron structure](images/02_gene_structure.png)
+![LRRK2 exon-intron structure](images/02_gene_structure.jpeg)
 
 ### Screenshot 3 - UCSC Annotation Tracks
-![LRRK2 ClinVar and conservation tracks](images/03_tracks.png)
+![LRRK2 ClinVar and conservation tracks](images/03_tracks.jpeg)
 
 ### Screenshot 4 - ClinVar Variant
-![LRRK2 G2019S ClinVar record](images/04_clinvar_variant.png)
+![LRRK2 G2019S ClinVar record](images/04_clinvar_variant.jpeg)
 
 ### Screenshot 5 - Variant in UCSC
-![LRRK2 G2019S variant in UCSC](images/05_variant_in_ucsc.png)
+![LRRK2 G2019S variant in UCSC](images/05_variant_in_ucsc.jpeg)
 
 ## References and Links
 
