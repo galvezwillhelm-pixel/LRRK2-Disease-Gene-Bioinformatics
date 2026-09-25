@@ -266,9 +266,9 @@ Speir, M. L. et al. (2021). UCSC Cell Browser: visualize your single-cell data. 
 
 The following screenshots document the UCSC Cell Browser activity:
 
-- `00_dataset.png` — Cell Browser dataset overview
-- `01_dataset.png` — Dataset Information
-- `02_gene_expression.png` — LRRK2 expression across the cell map
-- `03_cell_types.png` — Cell types/clusters with LRRK2 expression
-- `04_expression_plot.png` — LRRK2 expression comparison between selected Oligodendrocytes and other cells
-- `05_marker_genes.png` — Oligodendrocyte cluster marker genes
+- `00_dataset.jpeg` — Cell Browser dataset overview
+- `01_dataset.jpeg` — Dataset Information
+- `02_gene_expression.jpeg` — LRRK2 expression across the cell map
+- `03_cell_types.jpeg` — Cell types/clusters with LRRK2 expression
+- `04_expression_plot.jpeg` — LRRK2 expression comparison between selected Oligodendrocytes and other cells
+- `05_marker_genes.jpeg` — Oligodendrocyte cluster marker genes
